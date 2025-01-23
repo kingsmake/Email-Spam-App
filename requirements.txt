@@ -1,0 +1,4 @@
+sreamlit
+numpy
+scikit-learn
+scipy
