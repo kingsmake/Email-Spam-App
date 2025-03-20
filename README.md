@@ -1,0 +1,1 @@
+This project is designed to detect spam SMS messages using machine learning. The goal is to classify SMS messages as either "spam" or "ham" (not spam). The project uses the SMS Spam Collection Dataset, which contains labeled SMS messages for training and evaluation.
